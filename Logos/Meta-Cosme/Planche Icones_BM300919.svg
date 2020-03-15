@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -14,13 +15,35 @@
    viewBox="0 0 420 297"
    version="1.1"
    id="svg1995"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Planche Icones_BM300919.svg"
    inkscape:export-filename="/Users/annemo/Documents/Logos Benj/Planche Icones 191015 3.png"
    inkscape:export-xdpi="239.97441"
    inkscape:export-ydpi="239.97441">
   <defs
      id="defs1989">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2105"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2103"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient1609"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1607" />
+    </linearGradient>
     <marker
        inkscape:stockid="DiamondMstart"
        orient="auto"
@@ -871,19 +894,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="638.03134"
-     inkscape:cy="504.86484"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1447.486"
+     inkscape:cy="1168.2906"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g2108"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="2522"
-     inkscape:window-height="1216"
-     inkscape:window-x="1791"
-     inkscape:window-y="159"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
      inkscape:snap-global="false"
      inkscape:lockguides="false">
     <sodipodi:guide
@@ -1084,12 +1107,14 @@
      inkscape:label="noir"
      style="display:inline">
     <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8643204;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1001"
-       width="400.75555"
-       height="285.39722"
+       width="365.0368"
+       height="234.06805"
        x="6.3499999"
-       y="6.311111" />
+       y="57.640278"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2120,7 +2145,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Planche 2"
      id="g2008"
      inkscape:groupmode="layer">
@@ -3151,8 +3176,7 @@
      inkscape:groupmode="layer"
      id="g2323"
      inkscape:label="Planche 3"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        inkscape:label="Calque 1"
        inkscape:groupmode="layer"
@@ -3441,6 +3465,41 @@
          cy="-249.5"
          r="22.5"
          transform="scale(1,-1)" />
+      <circle
+         style="display:inline;opacity:1;fill:#0c80ab;fill-opacity:0.94117647;stroke:none;stroke-width:0.85039371;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2098-0"
+         cx="428.09662"
+         cy="49.879166"
+         r="22.5"
+         inkscape:transform-center-x="-27.449998"
+         inkscape:transform-center-y="11.250006"
+         inkscape:export-xdpi="239.89"
+         inkscape:export-ydpi="239.89" />
+      <path
+         style="fill:none;stroke:#fffffc;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:48.29999924;stroke-dasharray:8.00000022, 1.00000003;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 412.27954,65.070494 c 33.56124,-12.547315 51.66218,-17.130657 16.2512,-27.339362"
+         id="path1831"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-xdpi="239.89"
+         inkscape:export-ydpi="239.89" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="path1835"
+         cx="442.51151"
+         cy="49.341373"
+         rx="2.291836"
+         ry="1.2628485"
+         inkscape:export-xdpi="239.89"
+         inkscape:export-ydpi="239.89" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 432.84705,41.092047 -5.09816,-3.788546 7.74384,0.685527"
+         id="path2483"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:export-xdpi="239.89"
+         inkscape:export-ydpi="239.89" />
     </g>
     <g
        inkscape:groupmode="layer"
